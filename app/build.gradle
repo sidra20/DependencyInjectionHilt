@@ -49,6 +49,6 @@ dependencies {
 }
 
 // Allow references to generated code
-// kapt {
-//    correctErrorTypes true
-//}
+kapt {
+    correctErrorTypes true
+}
